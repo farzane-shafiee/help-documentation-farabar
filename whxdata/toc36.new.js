@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"موقعیت مکانی جدید","type":"item","tilePath":"","url":"assets/انبارداده/اطلاعات_پایه/موقعیت_مکانی/موقعیت_مکانی_جدید.htm"},{"name":"فهرست","type":"book","tilePath":"","url":"assets/انبارداده/اطلاعات_پایه/موقعیت_مکانی/فهرست/فهرست.htm","key":"toc37"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

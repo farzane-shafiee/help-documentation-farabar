@@ -1,0 +1,574 @@
+/*Created with Adobe RoboHelp 2019.*/
+.RH-LAYOUT-CENTERPANEL-topic-box {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+  margin-left: 4px;
+  margin-right: 5px;
+  float: right;
+  line-height: 1.5;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h1 {
+  font-weight: bold;
+  font-size: 24.0pt;
+  text-align: right;
+  margin-left: 4px;
+  margin-right: 5px;
+  font-family: 'Vazir FD-WOL';
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h2 {
+  font-weight: bold;
+  font-size: 18.0pt;
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+  margin-left: 4px;
+  margin-right: 5px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h3 {
+  font-weight: bold;
+  font-size: 14.0pt;
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+  margin-left: 4px;
+  margin-right: 5px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h4 {
+  font-weight: bold;
+  font-size: 12.0pt;
+  font-family: Vazir;
+  text-align: right;
+  margin-left: 4px;
+  margin-right: 5px;
+  font-family: 'Vazir FD-WOL';
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h5 {
+  font-weight: bold;
+  font-size: 10.0pt;
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+  margin-left: 4px;
+  margin-right: 5px;
+  line-height: 2;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h6 {
+  font-weight: bold;
+  font-size: 8.0pt;
+  text-align: right;
+  margin-left: 4px;
+  margin-right: 5px;
+  font-family: 'Vazir FD-WOL';
+}
+.RH-LAYOUT-CENTERPANEL-topic-box p {
+  font-size: 11.0pt;
+  margin-top: 5pt;
+  margin-bottom: 5pt;
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.expandspot {
+  color: #008000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box span.expandtext {
+  font-style: italic;
+  font-weight: normal;
+  color: #ff0000;
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+  margin-left: 4px;
+  margin-right: 5px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.dropspot {
+  cursor: pointer;
+  color: #008000;
+  font-style: italic;
+  text-decoration: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.glossterm {
+  color: #800000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box span.glosstext {
+  font-style: italic;
+  font-weight: normal;
+  color: #0000ff;
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  counter-reset: item1;
+  list-style: none;
+  padding-right: 40px;
+  margin-right: 0px;
+  text-align: right;
+  font-size: 11pt;
+  padding-left: 40px;
+  margin-left: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  counter-reset: item1;
+  list-style: none;
+  padding-right: 40px;
+  margin-right: 0px;
+  text-align: right;
+  font-size: 11pt;
+  padding-left: 40px;
+  margin-left: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-caption {
+  text-decoration: none;
+  color: initial;
+  font-weight: bold;
+  font-size: 12pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box p.minitoc-caption {
+  font-weight: bold;
+  font-size: 12pt;
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.minitoc-list {
+  padding-right: 40px;
+  margin-right: 0px;
+  list-style: none;
+  counter-reset: item1;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.minitoc-list ol {
+  list-style: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-list-item {}
+.RH-LAYOUT-CENTERPANEL-topic-box p.seealso-caption {
+  font-weight: bold;
+  font-size: 12pt;
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.seealso-list {
+  padding-right: 40px;
+  margin-right: 0px;
+  list-style: none;
+  counter-reset: item1;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.seealso-list-item {}
+.RH-LAYOUT-CENTERPANEL-topic-box p.reltopics-caption {
+  font-weight: bold;
+  font-size: 12pt;
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.reltopics-list {
+  padding-right: 40px;
+  margin-right: 0px;
+  list-style: none;
+  counter-reset: item1;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.reltopics-list-item {}
+.RH-LAYOUT-CENTERPANEL-topic-box a.expandspot:active {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+  margin-left: 4px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.expandspot:hover {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.expandspot:link {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.expandspot:visited {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.dropspot:active {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.dropspot:hover {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.dropspot:link {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.dropspot:visited {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.glossterm:active {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.glossterm:hover {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.glossterm:link {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.glossterm:visited {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-caption:active {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-caption:hover {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-caption:link {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-caption:visited {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-list-item:active {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-list-item:hover {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-list-item:link {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-list-item:visited {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.seealso-list-item:active {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.seealso-list-item:hover {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.seealso-list-item:link {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.seealso-list-item:visited {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.reltopics-list-item:active {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.reltopics-list-item:hover {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.reltopics-list-item:link {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.reltopics-list-item:visited {
+  font-family: 'Vazir FD-WOL';
+  text-align: right;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol>li {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol>li:before {
+  counter-increment: item1;
+  content: counter(item1, decimal);
+  text-align: right;
+  position: absolute;
+  right: -44px;
+  margin-right: 4px;
+  width: 40px;
+  overflow: hidden;
+  font-family: 'Vazir FD-WOL';
+  left: -44px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul>li {
+  position: relative;
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul>li:before {
+  counter-increment: item1;
+  content: "•";
+  text-align: right;
+  position: absolute;
+  right: -44px;
+  margin-right: 4px;
+  width: 40px;
+  overflow: hidden;
+  font-family: 'Vazir FD-WOL';
+  left: -44px;
+  line-height: 1;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.minitoc-list>li {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.minitoc-list>li:before {
+  counter-increment: item1;
+  content: counter(item1, none);
+  text-align: right;
+  position: absolute;
+  right: -44px;
+  margin-right: 4px;
+  width: 40px;
+  overflow: hidden;
+  font-family: 'Vazir FD-WOL';
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.seealso-list>li {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.seealso-list>li:before {
+  counter-increment: item1;
+  content: counter(item1, none);
+  text-align: right;
+  position: absolute;
+  right: -44px;
+  margin-right: 4px;
+  width: 40px;
+  overflow: hidden;
+  font-family: 'Vazir FD-WOL';
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.reltopics-list>li {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.reltopics-list>li:before {
+  counter-increment: item1;
+  content: counter(item1, none);
+  text-align: right;
+  position: absolute;
+  right: -44px;
+  margin-right: 4px;
+  width: 40px;
+  overflow: hidden;
+  font-family: 'Vazir FD-WOL';
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Disc {
+  list-style-type: disc;
+  list-style: none;
+  counter-reset: item1;
+  padding-left: 35px;
+  margin-left: 5px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.Decimal {
+  list-style-type: decimal;
+  list-style: none;
+  counter-reset: item1;
+  padding-left: 50px;
+  margin-left: 30px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.LowerAlpha {
+  list-style-type: lower-alpha;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric {
+  list-style: none;
+  counter-reset: item1;
+  padding-left: 40px;
+  margin-left: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol {
+  list-style: lower-alpha;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol {
+  list-style: lower-roman;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol>li>ol {
+  counter-reset: item4;
+  list-style: none;
+  padding-right: 40px;
+  margin-right: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol>li>ol>li {
+  position: relative;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol>li>ol>li:before {
+  counter-increment: item4;
+  content: "("counter(item4, decimal)")";
+  text-align: right;
+  position: absolute;
+  right: -44px;
+  margin-right: 4px;
+  width: 40px;
+  overflow: hidden;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol>li>ol>li>ol {
+  list-style: none;
+  counter-reset: item5;
+  padding-right: 40px;
+  margin-right: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol>li>ol>li>ol>li:before {
+  counter-increment: item5;
+  content: "("counter(item5, lower-alpha)")";
+  text-align: right;
+  position: absolute;
+  right: -44px;
+  margin-right: 4px;
+  width: 40px;
+  overflow: hidden;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol>li>ol>li>ol>li {
+  position: relative;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol>li>ol>li>ol>li>ol {
+  list-style: none;
+  counter-reset: item6;
+  padding-right: 40px;
+  margin-right: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol>li>ol>li>ol>li>ol>li:before {
+  counter-increment: item6;
+  content: "("counter(item6, lower-roman)")";
+  text-align: right;
+  position: absolute;
+  right: -44px;
+  margin-right: 4px;
+  width: 40px;
+  overflow: hidden;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li>ol>li>ol>li>ol>li>ol>li>ol>li {
+  position: relative;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.RoundSquare {
+  list-style: disc;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.RoundSquare>li>ol {
+  list-style: square;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.RoundSquare>li>ol>li>ol {
+  list-style: circle;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.RoundSquare>li>ol>li>ol>li>ol {
+  list-style: disc;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.RoundSquare>li>ol>li>ol>li>ol>li>ol {
+  list-style: square;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.RoundSquare>li>ol>li>ol>li>ol>li>ol>li>ol {
+  list-style: circle;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Disc>li {
+  position: relative;
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Disc>li:before {
+  counter-increment: item1;
+  content: counter(item1, disc);
+  text-align: right;
+  position: absolute;
+  left: -39px;
+  width: 35px;
+  overflow: hidden;
+  line-height: 1;
+  border-width: 0px;
+  border-style: none;
+  border-color: #000000;
+  margin-right: 4px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Circle {
+  list-style-type: circle;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Square {
+  list-style-type: square;
+  counter-reset: item1;
+  list-style: none;
+  padding-left: 50px;
+  margin-left: 94px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.UpperAlpha {
+  list-style-type: upper-alpha;
+  list-style: none;
+  counter-reset: item1;
+  padding-left: 50px;
+  margin-left: 30px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.UpperAlpha>li:before {
+  counter-increment: item1;
+  content: counter(item1, upper-roman);
+  text-align: right;
+  position: absolute;
+  left: -62px;
+  width: 50px;
+  overflow: hidden;
+  line-height: 1;
+  margin-right: 12px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.UpperAlpha>li {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.AlphaNumeric>li:before {
+  counter-increment: item1;
+  content: counter(item1, decimal);
+  text-align: right;
+  position: absolute;
+  left: -44px;
+  margin-right: 4px;
+  width: 40px;
+  overflow: hidden;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Square>li {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Square>li:before {
+  counter-increment: item1;
+  content: counter(item1, square);
+  text-align: right;
+  position: absolute;
+  left: -62px;
+  margin-right: 12px;
+  width: 50px;
+  overflow: hidden;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.Decimal>li {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.Decimal>li:before {
+  counter-increment: item1;
+  content: counter(item1, decimal);
+  text-align: right;
+  position: absolute;
+  left: -62px;
+  margin-right: 12px;
+  width: 50px;
+  overflow: hidden;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.UpperRoman {
+  list-style-type: upper-roman;
+}

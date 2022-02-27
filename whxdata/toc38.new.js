@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"صفت آماری جدید","type":"item","tilePath":"","url":"assets/انبارداده/اطلاعات_پایه/صفت_آماری/صفت_آماری_جدید.htm"},{"name":"فهرست","type":"book","tilePath":"","url":"assets/انبارداده/اطلاعات_پایه/صفت_آماری/فهرست/فهرست.htm","key":"toc39"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

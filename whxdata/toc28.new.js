@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"داشبورد جدید","type":"item","tilePath":"","url":"assets/گزارش_و_تحلیل/داشبورد/ایجاد_داشبورد.htm"},{"name":"فهرست","type":"book","tilePath":"","url":"assets/گزارش_و_تحلیل/داشبورد/فهرست/فهرست.htm","key":"toc29"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

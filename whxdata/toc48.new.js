@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"فرم اماری","type":"book","tilePath":"","url":"assets/انبارداده/فرم/فرم_آماری/فرم_اماری.htm","key":"toc49"},{"name":"فرم اطلاعاتي","type":"book","tilePath":"","url":"assets/انبارداده/فرم/فرم_اطلاعاتی/فرم_اطلاعاتي.htm","key":"toc53"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"منوی سفارشی جدید","type":"item","tilePath":"","url":"assets/مدیریت_سیستم/منوی_سفارشی/منوی_سفارشی_جدید.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

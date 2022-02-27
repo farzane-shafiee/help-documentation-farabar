@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"نقشه جدید","type":"item","tilePath":"","url":"assets/گزارش_و_تحلیل/مبتنی_بر_نقشه/ایجاد_نقشه.htm"},{"name":"فهرست","type":"book","tilePath":"","url":"assets/گزارش_و_تحلیل/مبتنی_بر_نقشه/فهرست/فهرست.htm","key":"toc31"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

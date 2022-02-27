@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"کاربران بر خط","type":"item","tilePath":"","url":"assets/مدیریت_سیستم/کابران_بر_خط/کاربران_بر_خط.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

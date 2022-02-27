@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"صفحه من","type":"book","tilePath":"","url":"assets/صفحه_من/صفحه__من.htm","key":"toc12"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

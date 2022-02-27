@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"گزارش اطلاعاتی جدید","type":"book","tilePath":"","url":"assets/گزارش_و_تحلیل/اطلاعاتی/ایجاد_گزارش_اطلاعاتی.htm","key":"toc15"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

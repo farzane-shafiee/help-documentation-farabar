@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"فهرست","type":"book","tilePath":"","url":"assets/گزارش_و_تحلیل/آماری/نقشه/فهرست/فهرست.htm","key":"toc25"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

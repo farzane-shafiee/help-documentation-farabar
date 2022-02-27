@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"پست جدید","type":"item","tilePath":"","url":"assets/مدیریت_سیستم/ساختار_سازمانی/گروه_-_پست/پست_جدید.htm"},{"name":"فهرست","type":"book","tilePath":"","url":"assets/مدیریت_سیستم/ساختار_سازمانی/گروه_-_پست/فهرست/فهرست.htm","key":"toc71"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"فهرست","type":"book","tilePath":"","url":"assets/انبارداده/قلم/قلم_آماری_اتوماتیک/فهرست/فهرست.htm","key":"toc64"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

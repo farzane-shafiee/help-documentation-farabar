@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"فهرست","type":"book","tilePath":"","url":"assets/انبارداده/قلم/قلم_آماری/فهرست/New_Topic.htm","key":"toc60"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

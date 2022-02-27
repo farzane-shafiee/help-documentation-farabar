@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"ایجاد بانک اطلاعاتی دیگر","type":"item","tilePath":"","url":"assets/گزارش_و_تحلیل/بانک_اطلاعاتی_دیگر/ایجاد_بانک_اطلاعاتی_دیگر.htm"},{"name":"فهرست","type":"book","tilePath":"","url":"assets/گزارش_و_تحلیل/بانک_اطلاعاتی_دیگر/فهرست/فهرست.htm","key":"toc27"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

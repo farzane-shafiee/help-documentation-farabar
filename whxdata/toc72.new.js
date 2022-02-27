@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"کاربر جدید","type":"item","tilePath":"","url":"assets/مدیریت_سیستم/مدیریت_کاربران/کاربر_جدید.htm"},{"name":"فهرست","type":"book","tilePath":"","url":"assets/مدیریت_سیستم/مدیریت_کاربران/فهرست/فهرست.htm","key":"toc73"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
